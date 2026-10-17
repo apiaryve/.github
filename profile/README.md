@@ -1,6 +1,10 @@
+<!--
 <p align="center">
   <img src="assets/apiary-logo.svg" alt="Apiary Project Logo" width="180">
 </p>
+-->
+
+# Apiary
 
 ![OS](https://img.shields.io/badge/OS-FreeBSD-red.svg?logo=freebsd&logoColor=white)
 
